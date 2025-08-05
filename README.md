@@ -43,12 +43,14 @@ A versatile and user-friendly unit conversion tool with a modern interface, supp
 - Python 3.6+
 - Tkinter (comes with Python)
 
-# Installation
+Installation
 
 # 🖥️ Screen Recording
-(Insert a short GIF or video clip showing the game in action.)
+
+https://github.com/user-attachments/assets/9263d9b7-fd4d-4558-98be-84a89b448371
 
 # 👤 Author
+
 Muhammad Mahir Raza Qureshi
 
 📧 Email: mahirqureshi59@gmail.com
