@@ -39,11 +39,13 @@ A versatile and user-friendly unit conversion tool with a modern interface, supp
 
 ## 🚀 Getting Started
 
-### Requirements
-- Python 3.6+
-- Tkinter (comes with Python)
+1. **Requirements**:
+   - Python 3.6+
+   - Tkinter (usually comes with Python)
 
-Installation
+2. **Running the application**:
+   ```bash
+   python Unit Converter.py
 
 # 🖥️ Screen Recording
 
